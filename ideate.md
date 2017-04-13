@@ -20,3 +20,13 @@ Context
 - Easy way to get businesses exposure
 - Food has to be delivered all over the city.
 - Job creation for delivery.
+
+User groups
+-consumers
+-black business owners
+-people who like food
+
+Parapherially related
+-business asscociations
+-consumers
+
