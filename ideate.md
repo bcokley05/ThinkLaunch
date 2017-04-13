@@ -30,3 +30,13 @@ Parapherially related
 -business asscociations
 -consumers
 
+Fans
+-business owners
+-supporters of black owned businesses
+-friends/supporters of the business owners
+
+Skeptics
+-Those who don't care who they buy from
+-Those who don't like the restaurants offered 
+-Those who don't want to implement new technology in order to place orders for food
+-Those who don't think the app will generate enough consistent traffic
